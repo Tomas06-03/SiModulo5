@@ -11,3 +11,7 @@
 .row {
   border: 1px solid #000000;
 }
+
+.row img {
+  height: 12%;
+}
