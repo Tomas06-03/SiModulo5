@@ -30,9 +30,18 @@ body {
   width: 80px;
 }
 
+#logo_crea {
+  height: 80px;
+  width: 80px;
+}
+
 .nav-link {
   color: white;
 }
 .TextoApresenta {
   padding-left: 15px;
+}
+
+#button {
+  background-color: wheat;
 }
