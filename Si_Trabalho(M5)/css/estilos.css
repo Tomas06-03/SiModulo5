@@ -1,3 +1,8 @@
+body img {
+  height: 100%;
+  width: 100%;
+}
+
 .col-sm-2 {
   background-color: blue;
   border: 1px solid #000000;
@@ -10,7 +15,4 @@
 
 .row {
   border: 1px solid #000000;
-}
-
-.row img {
 }
