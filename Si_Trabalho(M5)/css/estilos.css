@@ -13,12 +13,14 @@ body {
   width: 80px;
 }
 
-#Titulo {
-  color: white;
+.titulo {
+  text-align: center;
 }
+
 #logo_whey {
   height: 80px;
   width: 80px;
+  padding-bottom: 5px;
 }
 
 .cor {
@@ -28,21 +30,21 @@ body {
 #logo_bcaa {
   height: 80px;
   width: 80px;
+  padding-bottom: 20px;
 }
 
 #logo_crea {
   height: 80px;
   width: 80px;
+  padding-bottom: 20px;
 }
 
 #logo_termos {
   height: 80px;
   width: 80px;
+  padding-bottom: 20px;
 }
 
-.nav-link {
-  color: white;
-}
 .TextoApresenta {
   padding-left: 15px;
 }
