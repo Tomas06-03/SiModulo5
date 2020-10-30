@@ -20,7 +20,7 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    background: rgb(247, 4, 4);
+    background: rgb(255, 255, 255);
     min-width: 160px;
     box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
@@ -46,5 +46,19 @@ header .nav-item:last-child {
 }
 
 header .nav-item {
-    padding 0.9em;
+    padding: 0.9em;
 }
+
+header .navbar-brand {
+    padding-left: 8rem;
+}
+
+header .nav-link:hover {
+    color: black;
+}
+
+header .row .col-md-5 {
+    padding: 4.2vmin 1vmin;
+}
+
+header .row
