@@ -44,5 +44,9 @@ body {
 }
 
 #button {
-  background-color: wheat;
+  background-color: rgb(255, 230, 5);
+}
+
+#carouselExampleIndicators {
+  margin: 50px;
 }
