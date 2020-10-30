@@ -35,6 +35,11 @@ body {
   width: 80px;
 }
 
+#logo_termos {
+  height: 80px;
+  width: 80px;
+}
+
 .nav-link {
   color: white;
 }
@@ -44,8 +49,4 @@ body {
 
 #button {
   background-color: wheat;
-}
-
-h1 {
-  text-align: center;
 }
