@@ -2,6 +2,9 @@
     box-sizing: border-box;
 }
 
+
+/*HEADER*/
+
 header,
 section {
     overflow-x: hidden;
@@ -72,4 +75,17 @@ header .container .cold-md-7 h1 {
 
 #branco {
     color: white;
+}
+
+
+/*SECTION 1*/
+
+.section-1 {
+    padding: 20vmin 0;
+}
+
+.section-1 .row .col .SupSerem img {
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 0.2em;
 }
