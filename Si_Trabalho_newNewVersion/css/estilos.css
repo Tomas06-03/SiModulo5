@@ -109,3 +109,21 @@ header .container .cold-md-7 h1 {
     padding: 13vmin 5vmin 20vmin 10vmin;
     box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
 }
+
+.section-2 .container h1 {
+    font-size: 6vmin;
+}
+
+.section-2 .card {
+    width: 30rem;
+    margin-top: 10vmin;
+    margin-bottom: 10vmin;
+}
+
+.section-2 .card .card-text {
+    padding: 0.5em;
+}
+
+.section-2 .card .card-body>a {
+    font-size: 1.5em;
+}
