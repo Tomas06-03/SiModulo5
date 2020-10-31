@@ -99,8 +99,14 @@ header .container .cold-md-7 h1 {
     position: relative;
 }
 
+.section-1 .painel h1,
+h6 {
+    font-weight: bold;
+}
+
 .section-1 .painel {
     position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
     top: 7vmin;
     left: -18vmin;
     background-color: white;
@@ -126,4 +132,21 @@ header .container .cold-md-7 h1 {
 
 .section-2 .card .card-body>a {
     font-size: 1.5em;
+}
+
+
+/*Footer*/
+
+#barra {
+    border: 1px solid #000000;
+    margin-bottom: 40px;
+}
+
+footer .row #logo img {
+    width: 300px;
+    margin-left: 100px;
+}
+
+footer .row #poch img {
+    margin-top: 15px;
 }
