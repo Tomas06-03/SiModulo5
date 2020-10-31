@@ -100,3 +100,19 @@ main .row #whey3 img{
 main .row .col-md-6{
     padding:30px;
 }
+#barra{
+    border: 1px solid #000000;
+    margin-bottom: 40px;
+}
+
+footer .row #logo img{
+    width: 300px;
+    margin-left: 100px;
+
+}
+
+footer .row #poch img{
+    margin-top: 15px;
+
+}
+
