@@ -2,9 +2,6 @@
     box-sizing: border-box;
 }
 
-
-/*HEADER*/
-
 header,
 section {
     overflow-x: hidden;
@@ -85,6 +82,20 @@ header .container .cold-md-7 h1 {
     padding: 0.1em 0em;
 }
 
-#branco {
-    color: white;
+main .row #whey1 img{
+    width: 80%;
+    padding-top: 10%;
+}
+
+main .row #whey2 img{
+    width: 80%;
+    padding-top: 15%;
+}
+
+main .row #whey3 img{
+    width: 80%;
+    padding-top: 5%;
+}
+main .row .col-md-6{
+    padding:30px;
 }
