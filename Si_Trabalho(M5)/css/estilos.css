@@ -10,6 +10,10 @@ section {
     overflow-x: hidden;
 }
 
+header .container {
+    margin-bottom: 6%;
+}
+
 header a {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.9em;
@@ -26,6 +30,7 @@ header .container {
 
 header .nav-item {
     padding: 0.9em;
+    display: flex;
 }
 
 header .navbar-brand {
@@ -52,33 +57,49 @@ header .navbar-brand:hover {
     color: rgb(252, 0, 0);
 }
 
-header .row .col-md-5 {
-    padding: 4.2vmin 1vmin;
-}
-
-header .row .cold-md-7 {
-    padding: 22vmin 1vmin;
+header .row .texto {
     padding-bottom: 35vmin;
+    letter-spacing: 1px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
-header .row .col-md-5 img {
-    width: 100%;
+header .row .texto h1 {
+    padding-bottom: 1vmin;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
-header .container .cold-md-7 h6 {
-    letter-spacing: 4px;
+header .row .texto h6 {
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
-header .container .cold-md-7 h1 {
+header .row .texto p {
+    padding-bottom: 2vmin;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header .row .col-md-12 img {
+    width: 33%;
+}
+
+header .container .cold-md-12 h1 {
     font-size: 8.5vmin;
     font-weight: bold;
     padding: 0.1em 0em;
 }
 
 #branco {
+    align-content: center;
     color: white;
+    padding-bottom: 3%;
 }
 
 
@@ -86,6 +107,7 @@ header .container .cold-md-7 h1 {
 
 .section-1 {
     padding: 20vmin 0;
+    background-color: #ffffff;
 }
 
 .section-1 img {
@@ -102,6 +124,17 @@ header .container .cold-md-7 h1 {
 .section-1 .painel h1,
 h6 {
     font-weight: bold;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-1 .painel p {
+    font-weight: 500;
+}
+
+.section-1 .painel .SuplAlim {
+    font-weight: 500;
+    letter-spacing: 1px;
 }
 
 .section-1 .painel {
@@ -116,8 +149,18 @@ h6 {
     box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
 }
 
+
+/*Section 2*/
+
+.section-2 {
+    margin-bottom: 0px;
+}
+
 .section-2 .container h1 {
     font-size: 6vmin;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #000000;
 }
 
 .section-2 .card {
@@ -139,11 +182,11 @@ h6 {
 
 #barra {
     border: 1px solid #000000;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 footer .row #logo img {
-    width: 300px;
+    width: 250px;
     margin-left: 100px;
 }
 
