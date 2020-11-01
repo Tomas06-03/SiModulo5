@@ -106,18 +106,18 @@ header .container .cold-md-12 h1 {
 /*main*/
 
 main .row #whey1 img {
-    width: 80%;
-    padding-top: 10%;
+    width: 100%;
+    padding-top: 8%;
 }
 
 main .row #whey2 img {
-    width: 80%;
+    width: 100%;
     padding-top: 15%;
 }
 
 main .row #whey3 img {
-    width: 80%;
-    padding-top: 5%;
+    width: 90%;
+    padding-top: 0%;
 }
 
 main .row .col-md-6 {

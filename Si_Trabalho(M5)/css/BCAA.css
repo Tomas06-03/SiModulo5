@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 /*HEADER*/
 
 header,
@@ -95,6 +99,32 @@ header .container .cold-md-12 h1 {
     align-content: center;
     color: white;
     padding-bottom: 3%;
+}
+
+/*main*/
+
+main .row #bcaa1 img {
+    width: 100%;
+    padding-top: 10%;
+}
+
+main .row #bcaa2 img {
+    width: 100%;
+    padding-top: 0%;
+}
+
+main .row #bcaa3 img {
+    width: 100%;
+    padding-top: 10%;
+}
+
+main .row #bcaa4 img {
+    width: 100%;
+    padding-top: 20%;
+}
+
+main .row .col-md-6 {
+    padding: 30px;
 }
 
 
