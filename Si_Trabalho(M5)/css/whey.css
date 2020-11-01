@@ -10,6 +10,10 @@ section {
     overflow-x: hidden;
 }
 
+header .container {
+    margin-bottom: 6%;
+}
+
 header a {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.9em;
@@ -20,8 +24,13 @@ header {
     background: black;
 }
 
+header .container {
+    margin-top: 10%;
+}
+
 header .nav-item {
     padding: 0.9em;
+    display: flex;
 }
 
 header .navbar-brand {
@@ -48,71 +57,86 @@ header .navbar-brand:hover {
     color: rgb(252, 0, 0);
 }
 
-header .row .col-md-5 {
-    padding: 4.2vmin 1vmin;
-}
-
-header .row .cold-md-7 {
-    padding: 22vmin 1vmin;
+header .row .texto {
     padding-bottom: 35vmin;
+    letter-spacing: 1px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
-header .row .col-md-5 img {
-    width: 90%;
+header .row .texto h1 {
+    padding-bottom: 1vmin;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
-header .container .cold-md-7 h6 {
-    letter-spacing: 4px;
+header .row .texto h6 {
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
-header .container .cold-md-7 h1 {
+header .row .texto p {
+    padding-bottom: 2vmin;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header .row .col-md-12 img {
+    width: 33%;
+}
+
+header .container .cold-md-12 h1 {
     font-size: 8.5vmin;
     font-weight: bold;
     padding: 0.1em 0em;
 }
 
 #branco {
+    align-content: center;
     color: white;
+    padding-bottom: 3%;
 }
 
-header .container .cold-md-7 h1 {
-    font-size: 8.5vmin;
-    font-weight: bold;
-    padding: 0.1em 0em;
-}
 
-main .row #whey1 img{
+/*main*/
+
+main .row #whey1 img {
     width: 80%;
     padding-top: 10%;
 }
 
-main .row #whey2 img{
+main .row #whey2 img {
     width: 80%;
     padding-top: 15%;
 }
 
-main .row #whey3 img{
+main .row #whey3 img {
     width: 80%;
     padding-top: 5%;
 }
-main .row .col-md-6{
-    padding:30px;
+
+main .row .col-md-6 {
+    padding: 30px;
 }
-#barra{
+
+
+/*Footer*/
+
+#barra {
     border: 1px solid #000000;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
-footer .row #logo img{
-    width: 300px;
+footer .row #logo img {
+    width: 250px;
     margin-left: 100px;
-
 }
 
-footer .row #poch img{
+footer .row #poch img {
     margin-top: 15px;
-
 }
-
