@@ -12,6 +12,14 @@ header .navbar {
   padding: 0px;
 }
 
+.navbar-toggler-icon {
+  background-color: rgb(255, 0, 0);
+}
+
+.navbar-toggler {
+  background-color: #000;
+}
+
 header .navbar ul li a {
   color: #000;
 }
@@ -215,7 +223,7 @@ header .container .cold-md-12 h1 {
   width: 100%;
   height: 100vh;
   padding: 15vmin 0;
-  background: url(suplementosalimentares.jpg);
+  background: url("../img/suplementosalimentares.jpg");
   background-size: cover;
 }
 
@@ -301,6 +309,10 @@ h6 {
 }
 
 /*Footer*/
+
+footer {
+  background-color: rgb(196, 196, 196);
+}
 
 footer .row {
   align-items: center;
