@@ -1,25 +1,85 @@
+/*Telemovel*/
+@media screen and (max-width: 767px) {
+  .telemovel {
+    display: inline-block;
+  }
+
+  main {
+    display: none;
+  }
+}
+
+/*Computador*/
+@media screen and (min-width: 768px) {
+  .telemovel {
+    display: none;
+  }
+
+  main {
+    display: inline-block;
+  }
+}
+
+h2 {
+  font-weight: bold;
+}
+
 /*main*/
 
 main .row #bcaa1 img {
   width: 100%;
-  padding-top: 10%;
+  margin-top: 10%;
+  border-radius: 20px;
 }
 
 main .row #bcaa2 img {
   width: 100%;
-  padding-top: 0%;
+  margin-top: 0%;
+  border-radius: 20px;
 }
 
 main .row #bcaa3 img {
   width: 100%;
-  padding-top: 10%;
+  margin-top: 10%;
+  border-radius: 20px;
 }
 
 main .row #bcaa4 img {
   width: 100%;
-  padding-top: 20%;
+  margin-top: 20%;
+  border-radius: 20px;
 }
 
 main .row .col-md-6 {
   padding: 30px;
+}
+
+/*main-telemovel*/
+
+.telemovel .row #bcaa1 img {
+  width: 100%;
+  margin-top: 10%;
+  border-radius: 20px;
+}
+
+.telemovel .row #bcaa2 img {
+  width: 100%;
+  margin-top: 0%;
+  border-radius: 20px;
+}
+
+.telemovel .row #bcaa3 img {
+  width: 100%;
+  margin-top: 10%;
+  border-radius: 20px;
+}
+
+.telemovel .row #bcaa4 img {
+  width: 100%;
+  margin-top: 20%;
+  border-radius: 20px;
+}
+
+.telemovel .row .col-md-6 {
+  margin: 30px;
 }
