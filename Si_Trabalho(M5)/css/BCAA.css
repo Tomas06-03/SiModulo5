@@ -28,7 +28,7 @@ h2 {
 
 main .row #bcaa1 img {
   width: 100%;
-  margin-top: 10%;
+  margin-top: 0%;
   border-radius: 20px;
 }
 
@@ -46,7 +46,7 @@ main .row #bcaa3 img {
 
 main .row #bcaa4 img {
   width: 100%;
-  margin-top: 20%;
+  margin-top: 2%;
   border-radius: 20px;
 }
 
@@ -64,7 +64,7 @@ main .row .col-md-6 {
 
 .telemovel .row #bcaa2 img {
   width: 100%;
-  margin-top: 0%;
+  margin-top: 10%;
   border-radius: 20px;
 }
 
@@ -80,6 +80,6 @@ main .row .col-md-6 {
   border-radius: 20px;
 }
 
-.telemovel .row .col-md-6 {
-  margin: 30px;
+.telemovel .row .col-sm-12 {
+  padding: 10px 10px 0px 10px;
 }
