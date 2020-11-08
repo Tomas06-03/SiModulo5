@@ -28,7 +28,7 @@ h2 {
 
 main .row #crea1 img {
   width: 90%;
-  margin-top: 10%;
+  margin-top: 0%;
   border-radius: 20px;
 }
 
@@ -40,7 +40,7 @@ main .row #crea2 img {
 
 main .row #crea3 img {
   width: 100%;
-  margin-top: 10%;
+  margin-top: 7%;
   border-radius: 20px;
 }
 
@@ -68,6 +68,6 @@ main .row .col-md-6 {
   border-radius: 20px;
 }
 
-.telemovel .row .col-md-6 {
-  padding: 30px;
+.telemovel .row .col-sm-12 {
+  padding: 10px 10px 0px 10px;
 }
