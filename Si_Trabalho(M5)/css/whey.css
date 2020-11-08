@@ -25,6 +25,14 @@ h2 {
 }
 
 /*main*/
+main #prozis img{
+  padding: 20px 10px 20px 20px;
+  width: 100%;
+}
+main #myprotein img{
+  padding: 10px 10px 10px 20px;
+  width: 100%;
+}
 
 main .row #whey1 img {
   width: 100%;
