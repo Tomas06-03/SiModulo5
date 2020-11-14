@@ -28,9 +28,12 @@
 .section .col-lg-4,
 .col-md-4,
 .col-sm-12 {
-    padding: 2%;
     align-items: center;
     margin: 0px;
+}
+
+.cartoes {
+    padding: 2%;
 }
 
 .section .col-sm-12 {
