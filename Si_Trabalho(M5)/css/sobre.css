@@ -33,10 +33,6 @@
     margin: 0px;
 }
 
-.mx-2 {
-    margin-right: 0px;
-}
-
 .section .col-sm-12 {
     padding-top: 10px;
 }
@@ -46,7 +42,7 @@
 }
 
 .section .col-sm-12 .card-text {
-    min-height: 50px;
+    min-height: 30px;
 }
 
 .section img {
