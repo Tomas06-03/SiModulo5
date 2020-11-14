@@ -34,22 +34,22 @@ table {
 }
 
 main #prozis img {
-    padding: 30px 10px 30px 20px;
+    padding: 25px 0px 0px 15px;
     width: 100%;
 }
 
 main #myprotein img {
-    padding: 30px 10px 30px 20px;
+    padding: 25px 0px 0px 12px;
     width: 100%;
 }
 
 main #gold img {
-    padding: 10px 10px 10px 20px;
+    padding: 0px 0px 0px 0px;
     width: 100%;
 }
 
 main #bio img {
-    padding: 5px 10px 5px 20px;
+    padding: 0px 0px 0px 0px;
     width: 100%;
 }
 
