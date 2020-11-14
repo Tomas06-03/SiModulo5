@@ -44,12 +44,11 @@
 }
 
 .secçao .col-md-4 .card-title {
-    min-height: 70px;
+    min-height: 50px;
 }
 
 .secçao .col-sm-12 .card-text {
-    min-height: 20px;
-    padding: 1%;
+    min-height: 30px;
 }
 
 .secçao .card-body {
