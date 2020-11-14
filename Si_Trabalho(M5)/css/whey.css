@@ -34,22 +34,23 @@ table {
 }
 
 main #prozis img {
-    padding: 25px 0px 0px 15px;
+    padding: 8px 0px 0px 15px;
     width: 100%;
 }
 
 main #myprotein img {
-    padding: 25px 0px 0px 12px;
+    padding: 5px 0px 0px 12px;
     width: 100%;
 }
 
 main #gold img {
-    padding: 20px 20px 20px 20px;
-    width: 100%;
+    padding: 0px 0px 0px 15px;
+    margin-left: 30px;
+    width: 50%;
 }
 
 main #bio img {
-    padding: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 15px;
     width: 100%;
 }
 
@@ -62,16 +63,16 @@ main .preco{
 }
 
 main .btn1{
-    margin-top: 12%;
+    margin-top: 0%;
 }
 main .btn2{
-    margin-top: 15%;
+    margin-top: 0%;
 }
 main .btn3{
-    margin-top: 15%;
+    margin-top: 8%;
 }
 main .btn4{
-    margin-top: 16%;
+    margin-top: 1%;
 }
 
 main .row #whey1 img {
@@ -150,6 +151,7 @@ main .row .col-md-6 {
 
 .telemovel #gold img {
     padding: 0px 0px 0px 0px;
+    margin: 0%;
     width: 100%;
 }
 
