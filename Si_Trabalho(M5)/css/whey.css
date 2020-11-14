@@ -44,12 +44,12 @@ main #myprotein img {
 }
 
 main #gold img {
-    padding: 0px 0px 0px 0px;
+    padding: 20px 20px 20px 20px;
     width: 100%;
 }
 
 main #bio img {
-    padding: 0px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
     width: 100%;
 }
 
@@ -119,4 +119,62 @@ main .row .col-md-6 {
 
 .telemovel .row .col-sm-12 {
     padding: 10px 10px 0px 10px;
+}
+
+
+.telemovel td#prozis{
+    padding: 35px 0px 0px 5px;
+}
+
+.telemovel td#myprotein{
+    padding: 35px 0px 0px 5px;
+}
+
+.telemovel td#gold{
+    padding: 42px 0px 0px 5px;
+}
+
+.telemovel td#bio{
+    padding: 30px 0px 0px 5px;
+}
+
+.telemovel #prozis img {
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.telemovel #myprotein img {
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.telemovel #gold img {
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.telemovel #bio img {
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.telemovel .produto{
+    vertical-align: middle;
+}
+
+.telemovel .preco{
+    vertical-align: middle;
+}
+
+.telemovel .btn1{
+    margin-top: 5%;
+}
+.telemovel .btn2{
+    margin-top: 5%;
+}
+.telemovel .btn3{
+    margin-top: 35%;
+}
+.telemovel .btn4{
+    margin-top: 5%;
 }
