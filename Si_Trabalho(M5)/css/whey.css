@@ -53,6 +53,27 @@ main #bio img {
     width: 100%;
 }
 
+main .produto{
+    vertical-align: middle;
+}
+
+main .preco{
+    vertical-align: middle;
+}
+
+main .btn1{
+    margin-top: 12%;
+}
+main .btn2{
+    margin-top: 15%;
+}
+main .btn3{
+    margin-top: 15%;
+}
+main .btn4{
+    margin-top: 16%;
+}
+
 main .row #whey1 img {
     width: 100%;
     margin-top: 0%;
